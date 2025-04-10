@@ -16,3 +16,7 @@ The model is trained to identify whether a review is genuine or fake, using tech
 - 📈 Visualized training/validation loss and accuracy over epochs
 
 ---
+
+## Trained Model
+
+https://drive.google.com/file/d/1rIRy1iWlNWLKt0hzUNuhVwa_tRUbmtLB/view?usp=sharing [Click here to download bert_lstm_trained_model.pth from Google Drive]
